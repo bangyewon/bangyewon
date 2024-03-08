@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Yewon's+Github&animation=blinking&color=ffc0cb&fontSize=50&fontColor=fa8072)
+![header](https://capsule-render.vercel.app/api?text=Yewon's+Github&animation=blinking&color=ffc0cb&fontSize=50&fontColor=fa8072&stroke=000000&strokeWidth=2)
 
 <div align ="center">
   <a href="https://github.com/bangyewon/github-readme-stats">
