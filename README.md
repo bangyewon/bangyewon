@@ -1,5 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=EFBDD3&height=200&text=Yewon's+Github&fontSize=50&fontAlign=70&rotate=13&fontAlignY=5&desc=welcome%20to%20my%20Page🌟&descAlign=70&descAlignY=10&animation=blinking)
-
+![header](https://capsule-render.vercel.app/api?text=Yewon's+Github&animation=blinking&color=ffc0cb&fontSize=50&fontColor=fa8072)
 
 <div align ="center">
   <a href="https://github.com/bangyewon/github-readme-stats">
