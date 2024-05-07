@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bangyewon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangyewon&exclude_repo=bangyewon.github.io&layout=compact&theme=tokyonight" width =36% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangyewon&exclude_repo=bangyewon.github.io&layout=donut&theme=dracula" width =36% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bangyewon&theme=react-dark&bg_color=20232a&hide_border=true&line=EFBDD3&color=EFBDD3" width=98%/>
