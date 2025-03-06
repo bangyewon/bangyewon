@@ -3,11 +3,16 @@
 <img align="center" src="https://github.com/user-attachments/assets/4c1a9938-97cf-433b-84f2-52f374a1e64d" height="300px" width ="500px">
 
 
+
+
 <h4>Yewon</h4>
 <h6>I’m studying to become a backend developer.</h6> 
 <h6> Currently, I'm learning Spring Boot and exploring infrastructure technologies. I enjoy solving problems, optimizing systems, and creating scalable services. Always eager to learn and collaborate—let’s build something amazing together! 🚀</h6>
 
-<h2 align="left">🪪 Profile</h2>
+<a align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bangyewon&show_icons=true&theme=rose" alt="bangyewon's Github stats"/>
+</a>
+
 
 ```bash
 mysql> describe myself;
@@ -28,7 +33,6 @@ Stack 🗣: C, Python, Java, Spring Boot, MySQL, MariaDB, Linux, HTML, AWS, Dock
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bangyewon&theme=react-dark&bg_color=20232a&hide_border=true&line=EFBDD3&color=EFBDD3" width=98%/>
 </a>
 </div>
-
 
 <br>
 <h3 align="center">📫 Contact 📫</h3>
